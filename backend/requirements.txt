@@ -1,0 +1,8 @@
+flask
+flask-cors
+pdfplumber
+scikit-learn
+spacy
+reportlab
+python-dotenv
+python-multipart
