@@ -1,5 +1,5 @@
 # Resume Analyzer
-
+Live LInk:https://curious-seahorse-511aee.netlify.app
 ## Overview
 
 The **Resume Analyzer** is a full-stack web application built to simplify the process of evaluating resumes for job applications. Leveraging **Flask** for the backend, **React** and **Next.js** for the frontend, and advanced NLP (Natural Language Processing) techniques, this tool extracts key information from resumes and analyzes how well they match the job description. The app provides a **match score**, identifies missing skills, and offers recommendations to improve resume relevance.
